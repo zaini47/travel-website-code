@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+}
+
+
+
+.image{
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    width: 250px;
+    top: 320px;
+    left: 90px;
+}
+
+.paragraph{
+    font-size: larger;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: #444b49;
+}
